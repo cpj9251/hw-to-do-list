@@ -1,0 +1,23 @@
+/*******
+* CSS File for Hello World To DO Test
+*/
+
+#todo-input{
+    width:250px;
+    height:40px;
+    border-radius:10px;
+    margin-right:10px;
+}
+button{
+    width:100px;
+    height:40px;
+    font-size:20px;
+    border-radius:10px;
+    background-color:rgb(222, 111, 32);
+    color:#fefefe;
+}
+li{
+    font-size:18px;
+    height:40px;
+
+}
